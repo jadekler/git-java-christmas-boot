@@ -6,16 +6,16 @@
               ${Ansi.WHITE}*        ${Ansi.GREEN}`/&\`                   ${Ansi.WHITE}*${Ansi.GREEN}
                       ,@.*;${Ansi.MAGENTA}@${Ansi.GREEN},
                      /_o.I %_\    ${Ansi.WHITE}*${Ansi.GREEN}
-        ${Ansi.WHITE}*${Ansi.GREEN}           (`'--:o(_${Ansi.MAGENTA}@${Ansi.GREEN};
-                   /`;--.,__ `')             ${Ansi.WHITE}*${Ansi.GREEN}
+        ${Ansi.WHITE}*${Ansi.GREEN}           ${Ansi.YELLOW}(`'--:${Ansi.GREEN}o(${Ansi.YELLOW}_${Ansi.GREEN}${Ansi.MAGENTA}@${Ansi.GREEN};
+                   /${Ansi.YELLOW}`;--.,__ `')             ${Ansi.WHITE}*${Ansi.GREEN}
                   ;${Ansi.MAGENTA}@${Ansi.GREEN}`o % O,*`'`&\
-            ${Ansi.WHITE}*${Ansi.GREEN}    (`'--)_@ ;o %'()\      ${Ansi.WHITE}*${Ansi.GREEN}
-                 /`;--._`''--._O'${Ansi.MAGENTA}@${Ansi.GREEN};
-                /&*,()~o`;-.,_ `""`)
-     ${Ansi.WHITE}*${Ansi.GREEN}          /`,${Ansi.MAGENTA}@${Ansi.GREEN} ;+& () o*`;-';\
-               (`""--.,_0 +% ${Ansi.MAGENTA}@${Ansi.GREEN}' &()\
-               /-.,_    ``''--....-'`)  ${Ansi.WHITE}*
-          ${Ansi.WHITE}*${Ansi.GREEN}    /${Ansi.MAGENTA}@${Ansi.GREEN}%;o`:;'--,.__   __.'\
+            ${Ansi.WHITE}*${Ansi.GREEN}    ${Ansi.YELLOW}(`'--)_${Ansi.MAGENTA}@${Ansi.GREEN} ;o %'()\      ${Ansi.WHITE}*${Ansi.GREEN}
+                 ${Ansi.YELLOW}/`;--._`''--._${Ansi.GREEN}O'${Ansi.MAGENTA}@${Ansi.GREEN};
+                /&*,()~o${Ansi.YELLOW}`;-.,_ `""`)
+     ${Ansi.WHITE}*${Ansi.GREEN}          /`,${Ansi.MAGENTA}@${Ansi.GREEN} ;+& () o*${Ansi.YELLOW}`;-';${Ansi.GREEN}\
+               ${Ansi.YELLOW}(`""--.,_${Ansi.GREEN}0 +% ${Ansi.MAGENTA}@${Ansi.GREEN}' &()\
+               ${Ansi.YELLOW}/-.,_    ``''--....-'`)  ${Ansi.WHITE}*
+          ${Ansi.WHITE}*${Ansi.GREEN}    /${Ansi.MAGENTA}@${Ansi.GREEN}%;o${Ansi.YELLOW}`:;'--,.__   __.'${Ansi.GREEN}\
               ;*,&(); @ % &^;~`"`o;${Ansi.MAGENTA}@${Ansi.GREEN}();         ${Ansi.WHITE}*${Ansi.GREEN}
               /(); o^~; & ().o${Ansi.MAGENTA}@${Ansi.GREEN}*&`;&%O\
               `"="==""==${Ansi.RED},,,.,${Ansi.GREEN}="=="==="`
